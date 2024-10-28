@@ -1,0 +1,18 @@
+POST Data: Array
+(
+    [viewid] => 11
+    [document_status] => Rejected
+)
+
+POST Data: Array
+(
+    [viewid] => 87
+    [document_status] => Rejected
+)
+
+POST Data: Array
+(
+    [viewid] => 1
+    [document_status] => Rejected
+)
+
